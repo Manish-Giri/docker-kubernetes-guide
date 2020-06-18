@@ -1,0 +1,24 @@
+{
+  "name": "section-4",
+  "version": "1.0.0",
+  "description": "running a node app in a docker container",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manish-Giri/docker-kubernetes-guide.git"
+  },
+  "author": "manish-giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manish-Giri/docker-kubernetes-guide/issues"
+  },
+  "homepage": "https://github.com/Manish-Giri/docker-kubernetes-guide#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.0.2"
+  }
+}
