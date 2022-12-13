@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Manish-Giri/docker-kubernetes-guide#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "redis": "^3.0.2"
   }
 }
